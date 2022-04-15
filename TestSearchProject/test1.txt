@@ -1,0 +1,5 @@
+dog: my big red        dog is really   really friendly
+cat: my cat thinks it is    the king of the house house     house
+bird: my cat ate my friendly  bird
+fish: my cat tried to eat my fish
+nothing:
